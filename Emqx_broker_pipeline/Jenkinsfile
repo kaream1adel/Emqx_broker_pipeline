@@ -58,7 +58,7 @@ pipeline {
         //                echo $PATH
         //                cd EMQX-repo
         //                git pull origin kaream-emqx
-        //                /home/kaream/sonar-scanner-5.0.1.3006-linux/bin/sonar-scanner -Dsonar.projectKey=emqx-GP -Dsonar.token=sqa_23f1e1ca33bd56f0055d93b9553a999a518f3eb5
+        //                /home/kaream/sonar-scanner-5.0.1.3006-linux/bin/sonar-scanner -Dsonar.projectKey=emqx-GP
         //                 """
                  
                 
